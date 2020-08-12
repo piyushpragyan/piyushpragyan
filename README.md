@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Crio.do
+- 🔭 I’m currently working with Crio.do
 - 🌱 I’m currently learning Flutter,SQL.NodeJS.
 - 👯 I’m looking to collaborate on app projects
 - 🤔 I’m looking for help with understanding State Management in Flutter.
