@@ -11,7 +11,7 @@
 - Link to my Crio.do github work profile. <a href = 'https://criodo.github.io/Crio-Launch-Feb-2020-piyushpragyan14/'>Link</a>
 - You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Actual text -->
-<img src = 'https://github-readme-stats.vercel.app/api?username=Piyush-Pragyan&&show_icons=true&theme=radical'>
+<img src = 'https://github-readme-stats.vercel.app/api?username=piyushpragyan&&show_icons=true&theme=radical'>
 
 
 
