@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying under Crio.do
+- 🔭 I have completed Crio Launch Program recently.
 - 🌱 I’m currently learning Flutter,SQL,NodeJS.
 - 👯 I’m looking to collaborate on app projects
 - 🤔 I’m looking for help with understanding State Management in Flutter.
