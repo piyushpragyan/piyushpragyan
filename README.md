@@ -7,7 +7,7 @@
 - 💬 Ask me about techy stuff and games :).
 - 📫 How to reach me: Twitter: @PiyushPragyan
 - 😄 Pronouns: His
-- ⚡ Fun fact: I can kill the code. (Pun Intended :{});
+- ⚡ Fun fact: Nothing;
 - Link to my Crio.do github work profile. <a href = 'https://criodo.github.io/Crio-Launch-Feb-2020-piyushpragyan14/'>Link</a>
 - You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Actual text -->
