@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Nothing;
 - Link to my Crio.do github work profile. <a href = 'https://criodo.github.io/Crio-Launch-Feb-2020-piyushpragyan14/'>Link</a>
 - You can find me on [![LinkedIn][2.2]][2].
-<!-- Actual text -->[![
+<!-- Actual text -->
 <img src = 'https://github-readme-stats.vercel.app/api?username=piyushpragyan&&show_icons=true&theme=radical'>
 
 
